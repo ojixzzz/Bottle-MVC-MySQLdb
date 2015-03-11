@@ -1,3 +1,5 @@
+% rebase('layout/layout.tpl', message='')
+
 <div class="span12">    
     <h2>Daftar</h2><br>        
     <div class="clearfix"></div>    
@@ -21,5 +23,3 @@
           </table>    
     </div>
 </div>    
-
-%rebase layout/layout message=''
